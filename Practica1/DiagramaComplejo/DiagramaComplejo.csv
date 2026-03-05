@@ -1,0 +1,9 @@
+Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
+BT1,BT2,BT3	3	Battery					~
+D1,D2,D3,D4,D5,D6,D7,D8	8	LED					~
+Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Q22,Q23,Q24,Q25,Q26,Q27,Q28,Q29	29	2N3904				Package_TO_SOT_THT:TO-92_Inline	https://www.onsemi.com/pub/Collateral/2N3903-D.PDF
+R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39	39	1000					~
+SW1	1	SW_DIP_x03					~
+U1	1	74LS04					http://www.ti.com/lit/gpn/sn74LS04
+U2,U6,U7	3	74LS32					http://www.ti.com/lit/gpn/sn74LS32
+U3,U4,U5	3	74LS08					http://www.ti.com/lit/gpn/sn74LS08
